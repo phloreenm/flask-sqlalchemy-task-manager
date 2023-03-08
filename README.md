@@ -1,5 +1,27 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
+- DB: PostgreSQL
+- DB name: 'taskmanager'
+
+```
+  Name      |  Owner   | Encoding |           Collate           |            Ctype            |ICU Locale| Locale Provider 
+taskmanager | postgres | UTF8     | English_United Kingdom.1252 | English_United Kingdom.1252 |          | libc
+```
+
+```Terminal
+List of relations
+ Schema |   Name   | Type  |  Owner
+--------+----------+-------+----------
+ public | category | table | postgres
+ public | task     | table | postgres
+(2 rows)
+```
+
+- To run this project use ```python run.py``` command
+
+
+==================================
+
 Welcome USER_NAME,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
