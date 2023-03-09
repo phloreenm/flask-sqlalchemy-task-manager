@@ -21,6 +21,15 @@ List of relations
 
 
 ==================================
+-Rach new template will use this boilerplate: 
+```
+{% extends 'base.html' %}
+{% block content %}
+
+{% endblock  %} %}
+```
+
+==================================
 
 Welcome USER_NAME,
 
