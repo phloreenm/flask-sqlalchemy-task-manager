@@ -25,5 +25,9 @@
    "editor.defaultFormatter": "HookyQR.beautify",
    "[django-html]": {
       "editor.defaultFormatter": "junstyle.vscode-django-support"
-   }
+   },
+   "[python]": {
+      "editor.defaultFormatter": "ms-python.python"
+   },
+   "python.formatting.provider": "black"
 }
